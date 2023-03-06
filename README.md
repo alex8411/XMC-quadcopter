@@ -23,3 +23,5 @@ WARNING :
 ![supply_Cable_for_current_limit_bringup](https://user-images.githubusercontent.com/53020923/223108909-fee6594b-b4fb-4649-b664-825c47fc2b5e.png)
 
 ![drone_first_bringup_20230304](https://user-images.githubusercontent.com/53020923/223107001-305f6b54-2690-4eec-adb0-e4f18266bb32.jpg)
+
+![4motors_bringup](https://user-images.githubusercontent.com/53020923/223109392-92ddcfb7-16fa-41e9-be3a-3f8d52831f3d.png)

@@ -20,9 +20,6 @@ WARNING :
 
 ![full_schematics](https://user-images.githubusercontent.com/53020923/223108481-814bab0e-bc21-4113-b43a-16c47adb46a4.png)
 
-
-
-![bringup_connector_to_ExtSupply_not_battery_to_limit_current_in_case_of_shortcut](https://user-images.githubusercontent.com/53020923/223106977-fccb53e2-6074-4c39-b3ed-4e173cd35fe9.jpg)
-
+![supply_Cable_for_current_limit_bringup](https://user-images.githubusercontent.com/53020923/223108909-fee6594b-b4fb-4649-b664-825c47fc2b5e.png)
 
 ![drone_first_bringup_20230304](https://user-images.githubusercontent.com/53020923/223107001-305f6b54-2690-4eec-adb0-e4f18266bb32.jpg)

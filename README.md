@@ -8,7 +8,7 @@ The flight controller Cleanflight was ported for the Infineon XMC4500 MCU (ARM C
 
 For those unfamiliar with Cleanflight. It is an open source flight-controller firmware which is used on a broad range of commercial and open source flight-controllers. Since it is targeted towards 32 bit MCU's it provides a perfect base for the Cerasus board / XMC4500 MCU.
 
-First Bringup:
+1st Bringup: Hardware and motors simple control
 - flash the Flight Controller software using Infineon DAVE Eclipse based IDE and an Infineon MiniWriggler or XMCFLasher tool
 - download and start the Cleanflight web browser plugin to see if you can connect to the flight controller board via USB
 - if you can connect properly, you wil be able to see the gyro based moves of your board int the web browser
@@ -26,9 +26,24 @@ WARNING :
 
 ![4motors_bringup](https://user-images.githubusercontent.com/53020923/223109392-92ddcfb7-16fa-41e9-be3a-3f8d52831f3d.png)
 
-Second Bringup:
+2nd Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
 - after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
 - 
 ![boards_stackup_and_assembly](https://user-images.githubusercontent.com/53020923/224997301-727d79b6-fb10-402d-8ecc-ec976826d33b.jpg)
 
 ![boards_stackup_and_assembly_2](https://user-images.githubusercontent.com/53020923/224997340-fd0a70fd-cba3-4bd5-bc68-5fe2686f5797.jpg)
+
+...
+
+3rd Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
+- after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
+...
+
+4th Bringup: Remote control : 
+- solve GUI issue using remote instead of GUI drone control
+- in parallel : connect remote receiver pins to osci to see any signal when changing remote commands
+
+5th Bringup: Remote control : 
+- build or buy a platform under the bench to calibrate the drone internal SW PID and the remote control commands range and sensitivity in cleanflight
+
+

@@ -9,7 +9,7 @@ The flight controller Cleanflight was ported for the Infineon XMC4500 MCU (ARM C
 For those unfamiliar with Cleanflight. It is an open source flight-controller firmware which is used on a broad range of commercial and open source flight-controllers. Since it is targeted towards 32 bit MCU's it provides a perfect base for the Cerasus board / XMC4500 MCU.
 
 1st Bringup: Hardware and motors simple control
-- flash the Flight Controller software using Infineon DAVE Eclipse based IDE OR the SEGGER JFLASH Lite tool, AND an Infineon MiniWriggler or XMCFLasher Hardware debugger. CAUTION: the Debug/Flash is done via SWD pins, not the USB (Communication with PC / Cleanflight Appl SW Config later only)
+- build and/or flash the Flight Controller software using Infineon DAVE Eclipse based IDE OR the SEGGER JFLASH Lite tool, AND an Infineon MiniWriggler or XMCFLasher Hardware debugger. CAUTION: the Debug/Flash is done via SWD pins, not the USB (Communication with PC / Cleanflight Appl SW Config later only)
 
 ![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/f170a32b-48b3-456b-baf6-34ddf2fa9139)
 

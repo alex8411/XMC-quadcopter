@@ -30,26 +30,24 @@ WARNING :
 ![4motors_bringup](https://user-images.githubusercontent.com/53020923/223109392-92ddcfb7-16fa-41e9-be3a-3f8d52831f3d.png)
 
 
-2nd Bringup DONE: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
-- after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
-- 
+ 
 ![boards_stackup_and_assembly](https://user-images.githubusercontent.com/53020923/224997301-727d79b6-fb10-402d-8ecc-ec976826d33b.jpg)
 
 ![boards_stackup_and_assembly_2](https://user-images.githubusercontent.com/53020923/224997340-fd0a70fd-cba3-4bd5-bc68-5fe2686f5797.jpg)
 
 ...
 
-3rd Bringup UNDER WORK: Remote control :
+2nd Bringup UNDER WORK: Remote control :
 - bring up of the physical remote control instead of the PC Cleanflight GUI drone control
 - optional : connect remote receiver pins to osci to see any signal when changing remote commands
 
 NEXT STEPS:
 
-4th Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
+3rd Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
 - after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
 ...
 
-5th Bringup: Remote control : 
+4th Bringup: Remote control : 
 - build or buy a platform under the bench to calibrate the drone internal SW PID and the remote control commands range and sensitivity in cleanflight
 
 

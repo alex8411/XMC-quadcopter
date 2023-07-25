@@ -8,7 +8,7 @@ The flight controller Cleanflight was ported for the Infineon XMC4500 MCU (ARM C
 
 For those unfamiliar with Cleanflight. It is an open source flight-controller firmware which is used on a broad range of commercial and open source flight-controllers. Since it is targeted towards 32 bit MCU's it provides a perfect base for the Cerasus board / XMC4500 MCU.
 
-1st Bringup: Hardware and motors simple control
+1st Bringup DONE: Hardware and motors simple control
 - build and/or flash the Flight Controller software using Infineon DAVE Eclipse based IDE OR the SEGGER JFLASH Lite tool, AND an Infineon MiniWriggler or XMCFLasher Hardware debugger. CAUTION: the Debug/Flash is done via SWD pins, not the USB (Communication with PC / Cleanflight Appl SW Config later only)
 
 ![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/f170a32b-48b3-456b-baf6-34ddf2fa9139)
@@ -29,7 +29,13 @@ WARNING :
 
 ![4motors_bringup](https://user-images.githubusercontent.com/53020923/223109392-92ddcfb7-16fa-41e9-be3a-3f8d52831f3d.png)
 
-2nd Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
+
+NOW --> 2nd Bringup: Remote control :
+- bring up of the physical remote control instead of the PC Cleanflight GUI drone control
+- optional : connect remote receiver pins to osci to see any signal when changing remote commands
+
+
+2nd Bringup DONE: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
 - after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
 - 
 ![boards_stackup_and_assembly](https://user-images.githubusercontent.com/53020923/224997301-727d79b6-fb10-402d-8ecc-ec976826d33b.jpg)
@@ -38,11 +44,11 @@ WARNING :
 
 ...
 
-NOW --> 3rd Bringup: Remote control :
-- bring up of the physical remote control instead of the PC GUI drone control
+3rd Bringup UNDER WORK: Remote control :
+- bring up of the physical remote control instead of the PC Cleanflight GUI drone control
 - optional : connect remote receiver pins to osci to see any signal when changing remote commands
 
-NEXT:
+NEXT STEPS:
 
 4th Bringup: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
 - after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI

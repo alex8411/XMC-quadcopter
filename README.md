@@ -30,11 +30,6 @@ WARNING :
 ![4motors_bringup](https://user-images.githubusercontent.com/53020923/223109392-92ddcfb7-16fa-41e9-be3a-3f8d52831f3d.png)
 
 
-NOW --> 2nd Bringup: Remote control :
-- bring up of the physical remote control instead of the PC Cleanflight GUI drone control
-- optional : connect remote receiver pins to osci to see any signal when changing remote commands
-
-
 2nd Bringup DONE: Calibration of the Inertial Measurement Unit (e.g. Gyroscope) UNDER WORK
 - after fixing the flight controller and brushless motors driver board on the drone structure you can now configure the gyroscope in the Cleanflight GUI
 - 

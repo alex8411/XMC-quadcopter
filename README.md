@@ -56,7 +56,12 @@ WARNING :
 
 Once all configure as on previous slides, test if remote moved change the valuesof Roll, Pitch, Yaw etc. Remote need to show correct values for its internal battery (“Tx”) and the 5V supplied by XMC (“IntV”):
 
-![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/79, arming the motors (see arrows below), ![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/ee81815b-f3f7-417e-ba54-3d8816c9c486)
+![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/79
+
+arming the motors (see arrows below)
+
+
+![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/ee81815b-f3f7-417e-ba54-3d8816c9c486)
 8ff7e8-19db-47de-b8b0-de40d3a0e12f)
 
 ![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/54afa14d-9682-4c27-a006-7faa35ca5a80)

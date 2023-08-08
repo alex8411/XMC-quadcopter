@@ -80,8 +80,7 @@ arming the motors (see arrows below), no 14V connected yet, only USB
 
 ![image](https://github.com/alex8411/XMC-quadcopter/assets/53020923/ac77ba10-6188-4c6a-821f-278777453d61)
 
-
-
+https://github.com/alex8411/XMC-quadcopter/assets/53020923/d68f9943-5425-466f-b21d-860662d84e38
 
 NEXT STEPS:
 
